@@ -1,0 +1,8 @@
+1. git config --global user.name "Aravind.R"
+2. git config --global user.email "appootan@gmail.com"
+3. git config --global user.email --list
+4. git clone https://github.com/appootan/github-demo.git
+5. git status
+6. git add "Hello.txt" (git add -all)
+7. git commit -m "Adding Start Text File" 
+8. git push origin master
